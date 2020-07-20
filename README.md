@@ -1,6 +1,5 @@
 # Ui-design-for-a-birthday-reminder-app
-birthday reminder app
-[https://iroshadewmini496028.invisionapp.com/overview/Birthday-reminder-ckcupqv310rtw015mf3oru1s8/screens](url)
+birthday reminder app [https://iroshadewmini496028.invisionapp.com/overview/Birthday-reminder-ckcupqv310rtw015mf3oru1s8/screens](url)
 
 ![birthday reminder-Page-1](https://user-images.githubusercontent.com/42799799/87954003-67630000-cac9-11ea-9b29-dd5a17bae657.png)
 ![birthday reminder-Page-2](https://user-images.githubusercontent.com/42799799/87954039-73e75880-cac9-11ea-94c2-0027ac5b9a9c.png)
