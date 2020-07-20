@@ -6,6 +6,11 @@ birthday reminder app [https://iroshadewmini496028.invisionapp.com/overview/Birt
 ![birthday reminder-Page-3](https://user-images.githubusercontent.com/42799799/87954056-78137600-cac9-11ea-80ab-eac0073ed6f4.png)
 ![birthday reminder-Page-4](https://user-images.githubusercontent.com/42799799/87961493-646d0d00-cad3-11ea-82e5-382ac3a5791d.png)
 
+paper prototype
+
+![WhatsApp Image 2020-07-20 at 10 12 17 PM](https://user-images.githubusercontent.com/42799799/87963393-47860900-cad6-11ea-8cf5-037ad0d36774.jpeg)
+
+
 
 
 
