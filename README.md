@@ -11,6 +11,7 @@ paper prototype
 ![WhatsApp Image 2020-07-20 at 10 12 17 PM](https://user-images.githubusercontent.com/42799799/87963393-47860900-cad6-11ea-8cf5-037ad0d36774.jpeg)
 
 
+http://tecnologyineducationandindustry.blogspot.com/2020/07/ui-ux-design-guidelines.html
 
 
 
